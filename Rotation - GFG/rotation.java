@@ -32,16 +32,13 @@ class GFG {
 class Solution {
     int findKRotation(int arr[], int n) {
         int max = Integer.MIN_VALUE;
-        int idx = 0;
-        int k = 0;
         
         for(int i=0; i<n; i++){
             max = Math.max(max, arr[i]);
-            idx = i;
         }
         
         if(max == arr[n-1])
-            return k;
+            return 0;
             
         else 
             for(int i=0; i<n; i++){
