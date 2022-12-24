@@ -31,16 +31,6 @@ class GFG {
 }
 // } Driver Code Ends
 
-class Pair 
-{
-    int first;
-    int second;
-    
-    public Pair(int first, int second){
-        this.first = first;
-        this.second = second;
-    }
-}
 
 class Solution {
     // Function to detect cycle in an undirected graph.
@@ -48,30 +38,22 @@ class Solution {
         boolean[] vis = new boolean[V+1];
         for(int i=0; i<V; i++){
             if(vis[i] == false){
-                if(detectCycle(i, adj, vis))
+                if(dfs(i, -1, adj, vis))
                     return true;
             }
         }
         return false;
     }
     
-    private boolean detectCycle(int src, ArrayList<ArrayList<Integer>> adj, boolean[] vis){
-        vis[src] = true;
-        Queue<Pair> q = new LinkedList<>();
-        q.add(new Pair(src, -1));
+    private boolean dfs(int node, int parent, ArrayList<ArrayList<Integer>> adj, boolean[] vis){
+        vis[node] = true;
         
-        while(!q.isEmpty()){
-            int node = q.peek().first;
-            int parent = q.peek().second;
-            q.poll();
-            
-            for(Integer it: adj.get(node)){
-                if(vis[it] == false){
-                    vis[it] = true;
-                    q.add(new Pair(it, node));
-                } else if(parent != it){
+        for(Integer it: adj.get(node)){
+            if(vis[it] == false){
+                if(dfs(it, node, adj, vis))
                     return true;
-                }
+            } else if(parent != it){
+                return true;
             }
         }
         return false;
