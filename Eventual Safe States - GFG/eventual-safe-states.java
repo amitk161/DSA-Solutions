@@ -44,39 +44,41 @@ class GFG {
 class Solution {
 
     List<Integer> eventualSafeNodes(int V, List<List<Integer>> adj) {
-        
-        int[] vis = new int[V];
-        int[] pathVis = new int[V];
-        
+        List<List<Integer>> adjRev = new ArrayList<>();
         for(int i=0; i<V; i++){
-            if(vis[i] == 0){
-                dfs(i, vis, pathVis, adj);
+            adjRev.add(new ArrayList<>());
+        }
+        
+        int[] indegree = new int[V];
+        for(int i=0; i<V; i++){
+            for(Integer it: adj.get(i)){
+                adjRev.get(it).add(i);
+                indegree[i]++;
             }
         }
         
+        Queue<Integer> q = new LinkedList<>();
         List<Integer> res = new ArrayList<>();
+        
         for(int i=0; i<V; i++){
-            if(pathVis[i] == 0){
-                res.add(i);
+            if(indegree[i] == 0){
+                q.add(i);
             }
         }
+        
+        while(!q.isEmpty()){
+            int node = q.peek();
+            q.poll();
+            res.add(node);
+            
+            for(Integer it: adjRev.get(node)){
+                indegree[it]--;
+                if(indegree[it] == 0){
+                    q.add(it);
+                }
+            }
+        }
+        Collections.sort(res);
         return res;
-    }
-    
-    private boolean dfs(int node, int[] vis, int[] pathVis, List<List<Integer>> adj){
-        vis[node] = 1;
-        pathVis[node] = 1;
-        
-        for(Integer it: adj.get(node)){
-            if(vis[it] == 0){
-                if(dfs(it, vis, pathVis, adj) == true)
-                    return true;
-            } else if(pathVis[it] == 1){
-                return true;
-            }
-        }
-        
-        pathVis[node] = 0;
-        return false;
     }
 }
