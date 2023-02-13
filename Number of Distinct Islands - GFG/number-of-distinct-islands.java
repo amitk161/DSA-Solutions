@@ -43,10 +43,10 @@ class Solution {
         HashSet<ArrayList<String>> set = new HashSet<>();
         
         for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
+            for(int j= 0; j<m; j++){
                 if(vis[i][j] == 0 && grid[i][j] == 1){
                     ArrayList<String> list = new ArrayList<>();
-                    dfs(i, j, vis, list, grid, i, j);
+                    dfs(i, j, list, vis, grid, i, j);
                     set.add(list);
                 }
             }
@@ -54,7 +54,7 @@ class Solution {
         return set.size();
     }
     
-    private void dfs(int row, int col, int[][] vis, ArrayList<String> list, int[][] grid, int row0, int col0){
+    private void dfs(int row, int col, ArrayList<String> list, int[][] vis, int[][] grid, int row0, int col0){
         vis[row][col] = 1;
         list.add(toString(row - row0, col - col0));
         int n = grid.length;
@@ -62,13 +62,14 @@ class Solution {
         
         int[] delrow = {-1, 0, 1, 0};
         int[] delcol = {0, 1, 0, -1};
+        
         for(int i=0; i<4; i++){
             int nrow = row + delrow[i];
             int ncol = col + delcol[i];
             
-            if(nrow >=0 && nrow < n && ncol >= 0 && ncol < m 
-            && vis[nrow][ncol] == 0 && grid[nrow][ncol] == 1){
-                dfs(nrow, ncol, vis, list, grid, row0, col0);
+            if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
+            vis[nrow][ncol] == 0 && grid[nrow][ncol] == 1){
+                dfs(nrow, ncol, list, vis, grid, row0, col0);
             }
         }
     }
