@@ -39,7 +39,7 @@ class Solution
 {
     public boolean isBipartite(int V, ArrayList<ArrayList<Integer>>adj)
     {
-        int[] color = new int[V];
+        int[] color = new int[V+1];
         Arrays.fill(color, -1);
         
         for(int i=0; i<V; i++){
@@ -60,7 +60,7 @@ class Solution
                     return false;
             } else if(color[it] == col){
                 return false;
-            } 
+            }
         }
         return true;
     }
