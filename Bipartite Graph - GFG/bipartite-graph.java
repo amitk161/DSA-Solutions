@@ -44,24 +44,34 @@ class Solution
         
         for(int i=0; i<V; i++){
             if(color[i] == -1){
-                if(dfs(i, 0, color, adj) == false)
+                if(bfs(i, color, adj) == false){
                     return false;
+                }
             }
         }
         return true;
     }
     
-    private boolean dfs(int node, int col, int[] color, ArrayList<ArrayList<Integer>> adj){
-        color[node] = col;
+    private boolean bfs(int start, int[] color, ArrayList<ArrayList<Integer>> adj){
+        color[start] = 0;
+        Queue<Integer> q = new LinkedList<>();
+        q.add(start);
         
-        for(Integer it: adj.get(node)){
+        while(!q.isEmpty()){
+            int node = q.peek();
+            q.poll();
+            
+            for(Integer it : adj.get(node)){
             if(color[it] == -1){
-                if(dfs(it, 1 - col, color, adj) == false)
-                    return false;
-            } else if(color[it] == col){
+                color[it] = 1 - color[node];
+                q.add(it);
+            } else if(color[it] == color[node]){
                 return false;
             }
         }
+        }
+        
+        
         return true;
     }
 }
