@@ -50,6 +50,7 @@ class Solution {
         }
         
         int[] indegree = new int[V];
+        
         for(int i=0; i<V; i++){
             for(Integer it: adj.get(i)){
                 adjRev.get(it).add(i);
@@ -78,6 +79,7 @@ class Solution {
                 }
             }
         }
+        
         Collections.sort(res);
         return res;
     }
