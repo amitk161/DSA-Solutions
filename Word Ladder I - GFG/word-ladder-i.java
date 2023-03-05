@@ -50,22 +50,26 @@ class Solution
         for(int i=0; i<len; i++){
             set.add(wordList[i]);
         }
+        
         set.remove(startWord);
         while(!q.isEmpty()){
             String word = q.peek().first;
             int steps = q.peek().second;
             q.poll();
-            if(word.equals(targetWord) == true)
+            
+            if(word.equals(targetWord)){
                 return steps;
+            }
             
             for(int i=0; i<word.length(); i++){
                 for(char ch='a'; ch<='z'; ch++){
                     char[] replacedArray = word.toCharArray();
                     replacedArray[i] = ch;
-                    String replacedWord = new String(replacedArray);
-                    if(set.contains(replacedWord)){
-                        set.remove(replacedWord);
-                        q.add(new Pair(replacedWord, steps+1));
+                    String newWord = new String(replacedArray);
+                    
+                    if(set.contains(newWord) == true){
+                        set.remove(newWord);
+                        q.add(new Pair(newWord, steps+1));
                     }
                 }
             }
