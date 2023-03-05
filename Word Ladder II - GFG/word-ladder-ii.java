@@ -66,7 +66,6 @@ class Solution
         for(int i=0; i<len; i++){
             set.add(wordList[i]);
         }
-        
         Queue<ArrayList<String>> q = new LinkedList<>();
         ArrayList<String> ls = new ArrayList<>();
         ls.add(startWord);
@@ -88,13 +87,12 @@ class Solution
             }
             
             String word = vec.get(vec.size() - 1);
-            if(word.equals(targetWord)){
+            if(word.equals(targetWord) == true){
                 if(ans.size() == 0){
                     ans.add(vec);
-                }
-                else if(ans.get(0).size() == vec.size()){
+                } else if(ans.get(0).size() == vec.size()){
                     ans.add(vec);
-                }
+                } 
             }
             
             for(int i=0; i<word.length(); i++){
@@ -102,7 +100,6 @@ class Solution
                     char[] replacedArray = word.toCharArray();
                     replacedArray[i] = ch;
                     String newWord = new String(replacedArray);
-                    
                     if(set.contains(newWord) == true){
                         vec.add(newWord);
                         ArrayList<String> temp = new ArrayList<>(vec);
