@@ -57,9 +57,8 @@ class Solution
             int steps = q.peek().second;
             q.poll();
             
-            if(word.equals(targetWord)){
+            if(word.equals(targetWord) == true)
                 return steps;
-            }
             
             for(int i=0; i<word.length(); i++){
                 for(char ch='a'; ch<='z'; ch++){
