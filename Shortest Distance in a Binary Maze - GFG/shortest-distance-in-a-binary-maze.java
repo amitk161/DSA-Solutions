@@ -95,8 +95,9 @@ class Solution {
                     
                     if(nrow == destination[0] && ncol == destination[1]){
                         return dis + 1;
-                    } 
-                    q.add(new Tuple(dis + 1, nrow, ncol));
+                    }
+                    
+                    q.add(new Tuple(dist[nrow][ncol], nrow, ncol));
                 }
             }
         }
