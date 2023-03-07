@@ -61,10 +61,11 @@ class Solution {
             dist[i] = (int)(1e9);
             parent[i] = i;
         }
+        
         dist[1] = 0;
         pq.add(new Pair(0, 1));
         
-        while(pq.size() != 0){
+        while(!pq.isEmpty()){
             Pair iter = pq.peek();
             int dis = iter.first;
             int node = iter.second;
@@ -72,17 +73,17 @@ class Solution {
             
             for(Pair it: adj.get(node)){
                 int adjNode = it.first;
-                int wht = it.second;
+                int edW = it.second;
                 
-                if(dis + wht < dist[adjNode]){
-                    dist[adjNode] = dis + wht;
+                if(dis + edW < dist[adjNode]){
+                    dist[adjNode] = dis + edW;
                     pq.add(new Pair(dist[adjNode], adjNode));
                     parent[adjNode] = node;
                 }
             }
         }
         
-        List<Integer> res = new ArrayList<>();
+        ArrayList<Integer> res = new ArrayList<>();
         if(dist[n] == 1e9){
             res.add(-1);
             return res;
@@ -93,6 +94,7 @@ class Solution {
             res.add(node);
             node = parent[node];
         }
+        
         res.add(1);
         Collections.reverse(res);
         return res;
