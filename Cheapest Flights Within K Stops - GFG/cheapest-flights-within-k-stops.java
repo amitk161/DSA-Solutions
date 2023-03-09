@@ -54,7 +54,7 @@ class Tuple
 
 class Solution {
     
-    public int CheapestFLight(int n,int flights[][],int src,int dst,int K) {
+    public int CheapestFLight(int n,int flights[][],int src,int dst,int k) {
         ArrayList<ArrayList<Pair>> adj = new ArrayList<>();
         for(int i=0; i<n; i++){
             adj.add(new ArrayList<>());
@@ -66,11 +66,11 @@ class Solution {
         }
         
         Queue<Tuple> q = new LinkedList<>();
+        
         int[] dist = new int[n];
         for(int i=0; i<n; i++){
             dist[i] = (int)(1e9);
         }
-        
         dist[src] = 0;
         q.add(new Tuple(0, src, 0));
         
@@ -78,22 +78,23 @@ class Solution {
             Tuple it = q.peek();
             int stops = it.first;
             int node = it.second;
-            int cost = it.third;
-            q.remove();
+            int dis = it.third;
+            q.poll();
             
-            if(stops > K) continue;
+            if(stops > k) continue;
+            
             for(Pair iter: adj.get(node)){
                 int adjNode = iter.first;
-                int wht = iter.second;
+                int edW = iter.second;
                 
-                if(wht + cost < dist[adjNode] && stops <= K){
-                    dist[adjNode] = wht + cost;
+                if(edW + dis < dist[adjNode] && stops <= k){
+                    dist[adjNode] = edW + dis;
                     q.add(new Tuple(stops + 1, adjNode, dist[adjNode]));
                 }
             }
         }
         
-        if(dist[dst] == (int)(1e9)) return -1;
+        if(dist[dst] == 1e9) return -1;
         return dist[dst];
     }
 }
