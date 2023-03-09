@@ -59,7 +59,7 @@ class Solution {
         while(!q.isEmpty()){
             int node = q.peek().first;
             int steps = q.peek().second;
-            q.remove();
+            q.poll();
             
             for(int i=0; i<n; i++){
                 int num = (arr[i] * node) % mod;
