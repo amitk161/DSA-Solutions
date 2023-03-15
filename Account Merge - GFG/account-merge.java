@@ -126,18 +126,18 @@ class DisjointSet {
 }
 
 class Solution {
-  static List<List<String>> accountsMerge(List<List<String>> details) {
-        int n = details.size();
+  static List<List<String>> accountsMerge(List<List<String>> accounts) {
+        int n = accounts.size();
         DisjointSet ds = new DisjointSet(n);
-        HashMap<String, Integer> mailNode = new HashMap<>(); 
+        HashMap<String, Integer> map = new HashMap<>();
         
         for(int i=0; i<n; i++){
-            for(int j=1; j<details.get(i).size(); j++){
-                String mail = details.get(i).get(j);
-                if(mailNode.containsKey(mail) == false){
-                    mailNode.put(mail, i);
+            for(int j=1; j<accounts.get(i).size(); j++){
+                String mail = accounts.get(i).get(j);
+                if(map.containsKey(mail) == false){
+                    map.put(mail, i);
                 } else {
-                    ds.unionByRank(i, mailNode.get(mail));
+                    ds.unionByRank(i, map.get(mail));
                 }
             }
         }
@@ -147,7 +147,7 @@ class Solution {
             mergedMail[i] = new ArrayList<String>();
         }
         
-        for(Map.Entry<String, Integer> it : mailNode.entrySet()){
+        for(Map.Entry<String, Integer> it: map.entrySet()){
             String mail = it.getKey();
             int node = ds.findUPar(it.getValue());
             mergedMail[node].add(mail);
@@ -159,13 +159,13 @@ class Solution {
             if(mergedMail[i].size() == 0) continue;
             Collections.sort(mergedMail[i]);
             List<String> temp = new ArrayList<>();
-            temp.add(details.get(i).get(0));
+            temp.add(accounts.get(i).get(0));
             for(String it: mergedMail[i]){
                 temp.add(it);
             }
             ans.add(temp);
         }
         return ans;
-    }
+  }
 }
      
