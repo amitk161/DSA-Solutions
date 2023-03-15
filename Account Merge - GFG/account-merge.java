@@ -137,7 +137,7 @@ class Solution {
                 if(map.containsKey(mail) == false){
                     map.put(mail, i);
                 } else {
-                    ds.unionByRank(i, map.get(mail));
+                    ds.unionBySize(i, map.get(mail));
                 }
             }
         }
@@ -147,7 +147,7 @@ class Solution {
             mergedMail[i] = new ArrayList<String>();
         }
         
-        for(Map.Entry<String, Integer> it: map.entrySet()){
+        for(Map.Entry<String, Integer> it : map.entrySet()){
             String mail = it.getKey();
             int node = ds.findUPar(it.getValue());
             mergedMail[node].add(mail);
@@ -160,7 +160,7 @@ class Solution {
             Collections.sort(mergedMail[i]);
             List<String> temp = new ArrayList<>();
             temp.add(accounts.get(i).get(0));
-            for(String it: mergedMail[i]){
+            for(String it : mergedMail[i]){
                 temp.add(it);
             }
             ans.add(temp);
