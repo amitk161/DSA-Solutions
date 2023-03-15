@@ -65,9 +65,9 @@ class Solution {
     
     public List<Integer> numOfIslands(int n, int m, int[][] operators) {
         DisjointSet ds = new DisjointSet(n * m);
+        int len = operators.length;
         int[][] vis = new int[n][m];
         int cnt = 0;
-        int len = operators.length;
         List<Integer> ans = new ArrayList<>();
         
         for(int i=0; i<len; i++){
@@ -78,6 +78,7 @@ class Solution {
                 ans.add(cnt);
                 continue;
             }
+            
             vis[row][col] = 1;
             cnt++;
             
