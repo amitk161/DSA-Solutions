@@ -67,11 +67,13 @@ class Solution {
         DisjointSet ds = new DisjointSet(n * m);
         int[][] vis = new int[n][m];
         int cnt = 0;
-        List<Integer> ans = new ArrayList<>();
         int len = operators.length;
+        List<Integer> ans = new ArrayList<>();
+        
         for(int i=0; i<len; i++){
             int row = operators[i][0];
             int col = operators[i][1];
+            
             if(vis[row][col] == 1){
                 ans.add(cnt);
                 continue;
@@ -84,13 +86,15 @@ class Solution {
             for(int ind=0; ind<4; ind++){
                 int nrow = row + dr[ind];
                 int ncol = col + dc[ind];
-                if(isValid(nrow, ncol, n, m)){
+                
+                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m){
                     if(vis[nrow][ncol] == 1){
                         int nodeNo = row * m + col;
                         int adjNodeNo = nrow * m + ncol;
+                        
                         if(ds.findUPar(nodeNo) != ds.findUPar(adjNodeNo)){
                             cnt--;
-                            ds.unionBySize(nodeNo, adjNodeNo);
+                            ds.unionByRank(nodeNo, adjNodeNo);
                         }
                     }
                 }
@@ -98,10 +102,6 @@ class Solution {
             ans.add(cnt);
         }
         return ans;
-    }
-    
-    private boolean isValid(int nrow, int ncol, int n, int m){
-        return nrow >= 0 && nrow < n && ncol >= 0 && ncol < m;
     }
     
 }
