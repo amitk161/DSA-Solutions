@@ -84,6 +84,7 @@ class Solution {
         DisjointSet ds = new DisjointSet(n);
         int cntExtra = 0;
         int m = edge.length;
+        
         for(int i=0; i<m; i++){
             int u = edge[i][0];
             int v = edge[i][1];
@@ -105,6 +106,7 @@ class Solution {
         if(cntExtra >= ans){
             return ans;
         }
+        
         return -1;
     }
 }
