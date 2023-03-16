@@ -100,7 +100,6 @@ class Solution {
                 count++;
             }
         }
-        
         return n - count;
     }
 };
