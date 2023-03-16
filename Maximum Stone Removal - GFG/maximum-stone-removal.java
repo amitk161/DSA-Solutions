@@ -85,21 +85,22 @@ class Solution {
             maxCol = Math.max(maxCol, stones[i][1]);
         }
         DisjointSet ds = new DisjointSet(maxRow + maxCol + 1);
-        HashMap<Integer, Integer> stoneNodes = new HashMap<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
         for(int i=0; i<n; i++){
             int nodeRow = stones[i][0];
             int nodeCol = stones[i][1] + maxRow + 1;
             ds.unionBySize(nodeRow, nodeCol);
-            stoneNodes.put(nodeRow, 1);
-            stoneNodes.put(nodeCol, 1);
+            map.put(nodeRow, 1);
+            map.put(nodeCol, 1);
         }
         
         int count = 0;
-        for(Map.Entry<Integer,Integer> it : stoneNodes.entrySet()){
+        for(Map.Entry<Integer, Integer> it: map.entrySet()){
             if(ds.findUPar(it.getKey()) == it.getKey()){
                 count++;
             }
         }
+        
         return n - count;
     }
 };
