@@ -89,9 +89,11 @@ class Solution {
                 if(grid[i][j] == 0) continue;
                 int[] dr = {-1, 0, 1, 0};
                 int[] dc = {0, 1, 0, -1};
+                
                 for(int ind=0; ind<4; ind++){
                     int nrow = i + dr[ind];
                     int ncol = j + dc[ind];
+                    
                     if(isValid(nrow, ncol, n) && grid[nrow][ncol] == 1){
                         int nodeNo = i * n + j;
                         int adjNodeNo = nrow * n + ncol;
@@ -105,26 +107,28 @@ class Solution {
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
                 if(grid[i][j] == 1) continue;
+                HashSet<Integer> set = new HashSet<>();
                 int[] dr = {-1, 0, 1, 0};
                 int[] dc = {0, 1, 0, -1};
-                HashSet<Integer> components = new HashSet<>();
+                
                 for(int ind=0; ind<4; ind++){
                     int nrow = i + dr[ind];
                     int ncol = j + dc[ind];
+                    
                     if(isValid(nrow, ncol, n) && grid[nrow][ncol] == 1){
-                        components.add(ds.findUPar(nrow * n + ncol));
+                        set.add(ds.findUPar(nrow * n + ncol));
                     }
                 }
                 int sizeTotal = 0;
-                for(Integer parents: components){
-                    sizeTotal += ds.size.get(parents);
+                for(Integer it: set){
+                    sizeTotal += ds.size.get(it);
                 }
                 mx = Math.max(mx, sizeTotal + 1);
             }
         }
         
-        for(int cellNo=0; cellNo<n*n; cellNo++){
-            mx = Math.max(mx, ds.size.get(ds.findUPar(cellNo)));
+        for(int cell=0; cell<n * n; cell++){
+            mx = Math.max(mx, ds.size.get(ds.findUPar(cell)));
         }
         return mx;
     }
@@ -132,5 +136,4 @@ class Solution {
     private boolean isValid(int nrow, int ncol, int n){
         return nrow >= 0 && nrow < n && ncol >= 0 && ncol < n;
     }
-    
 }
