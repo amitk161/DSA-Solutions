@@ -42,6 +42,8 @@ class Gfg
 
 
 //User function Template for Java
+
+
 class Solution
 {
     //Function to find number of strongly connected components in the graph.
@@ -51,7 +53,7 @@ class Solution
         Stack<Integer> st = new Stack<>();
         for(int i=0; i<V; i++){
             if(vis[i] == 0){
-                dfs(i, st, vis, adj);
+                dfs(i, vis, st, adj);
             }
         }
         
@@ -71,31 +73,32 @@ class Solution
         while(!st.isEmpty()){
             int node = st.peek();
             st.pop();
+            
             if(vis[node] == 0){
                 scc++;
-                dfs3(node, vis, adjT);
+                dfs3(node, vis, st, adjT);
             }
         }
         return scc;
     }
     
-    private void dfs(int node, Stack<Integer> st, int[] vis, ArrayList<ArrayList<Integer>> adj){
+    private void dfs(int node, int[] vis, Stack<Integer> st, ArrayList<ArrayList<Integer>> adj){
         vis[node] = 1;
         
         for(Integer it: adj.get(node)){
             if(vis[it] == 0){
-                dfs(it, st, vis, adj);
+                dfs(it, vis, st, adj);
             }
         }
         st.push(node);
     }
     
-    private void dfs3(int node, int[] vis, ArrayList<ArrayList<Integer>> adjT){
+    private void dfs3(int node, int[] vis, Stack<Integer> st, ArrayList<ArrayList<Integer>> adjT){
         vis[node] = 1;
         
         for(Integer it: adjT.get(node)){
             if(vis[it] == 0){
-                dfs3(it, vis, adjT);
+                dfs3(it, vis, st, adjT);
             }
         }
     }
