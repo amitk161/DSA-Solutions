@@ -23,10 +23,10 @@ class Solution {
         return bridges;
     }
     
-    private void dfs(int node, int parent, int[] vis, int[] tin, int[] low, ArrayList<ArrayList<Integer>> adj,
+    private void dfs(int node, int parent, int[] vis, int[] tin, int[] low, ArrayList<ArrayList<Integer>> adj, 
                     List<List<Integer>> bridges){
         vis[node] = 1;
-        low[node] = tin[node] = timer;
+        tin[node] = low[node] = timer;
         timer++;
         
         for(Integer it: adj.get(node)){
