@@ -66,7 +66,7 @@ class Solution
         return ans;
     }
     
-    private void dfs(int node, int parent, int[] vis, int[] tin, int[] low, int[] mark,
+    private void dfs(int node, int parent, int[] vis, int[] tin, int[] low, int[] mark, 
     ArrayList<ArrayList<Integer>> adj){
         vis[node] = 1;
         tin[node] = low[node] = timer;
