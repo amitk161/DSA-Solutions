@@ -31,24 +31,24 @@ class GFG {
 
 class Solve {
     int[] findTwoElement(int arr[], int n) {
-        int[] dup = new int[n+1];
         int[] res = new int[2];
         
         for(int i=0; i<n; i++){
-            if(dup[arr[i]] == 0){
-                dup[arr[i]] = 1;
+            int abs = Math.abs(arr[i]);
+            
+            if(arr[abs-1] > 0){
+                arr[abs - 1] = -arr[abs - 1];
             } else {
-                dup[arr[i]] = 2;
+                res[0] = abs;
             }
         }
         
-        for(int i=1; i<dup.length; i++){
-            if(dup[i] == 2){
-                res[0] = i;
-            } else if(dup[i] == 0){
-                res[1] = i;
+        for(int i=0; i<n; i++){
+            if(arr[i] > 0){
+                res[1] = i + 1;
             }
         }
+        
         return res;
     }
 }
