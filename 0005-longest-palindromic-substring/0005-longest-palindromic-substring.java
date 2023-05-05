@@ -6,7 +6,7 @@ class Solution {
         int n = s.length();
         int st = 0, end = 0;
         
-        for(int i=0; i<n-1; i++){
+        for(int i=0; i<n; i++){
             int l = i, r = i;
             while(l >= 0 && r < n){
                 if(s.charAt(l) == s.charAt(r)){
@@ -23,7 +23,7 @@ class Solution {
             }
         }
         
-        for(int i=0; i<n-1; i++){
+        for(int i=0; i<n; i++){
             int l = i, r = i+1;
             while(l >= 0 && r < n){
                 if(s.charAt(l) == s.charAt(r)){
