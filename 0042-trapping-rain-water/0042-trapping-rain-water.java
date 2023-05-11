@@ -3,25 +3,25 @@ class Solution {
         int n = arr.length;
         int left = 0, right = n-1;
         int leftMax = 0, rightMax = 0;
-        int water = 0;
+        int res = 0;
         
         while(left <= right){
             if(arr[left] <= arr[right]){
-                if(arr[left] > leftMax){
+                if(arr[left] >= leftMax){
                     leftMax = arr[left];
                 } else {
-                    water += leftMax - arr[left];
+                    res += leftMax - arr[left];
                 }
                 left++;
             } else {
-                if(arr[right] > rightMax){
+                if(arr[right] >= rightMax){
                     rightMax = arr[right];
                 } else {
-                    water += rightMax - arr[right];
+                    res += rightMax - arr[right];
                 }
                 right--;
             }
         }
-        return water;
+        return res;
     }
 }
