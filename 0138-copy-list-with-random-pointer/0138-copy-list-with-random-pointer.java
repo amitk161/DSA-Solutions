@@ -23,6 +23,7 @@ class Solution {
             Node copy = new Node(iter.val);
             iter.next = copy;
             copy.next = front;
+            
             iter = front;
         }
         
@@ -35,16 +36,18 @@ class Solution {
         }
         
         iter = head;
-        Node psuedoHead = new Node(0);
-        Node copy = psuedoHead;
+        Node pseudo = new Node(0);
+        Node copy = pseudo;
         
         while(iter != null){
             front = iter.next.next;
+            
             copy.next = iter.next;
-            copy = copy.next;
             iter.next = front;
+            copy = copy.next;
             iter = front;
         }
-        return psuedoHead.next;
+        
+        return pseudo.next;
     }
 }
