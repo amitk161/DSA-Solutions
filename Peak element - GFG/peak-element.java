@@ -1,6 +1,4 @@
 //{ Driver Code Starts
-
-
 import java.util.*;
 import java.io.*;
 class PeakElement{
@@ -53,15 +51,17 @@ class Solution
 	// n: size of array a[]
 	public int peakElement(int[] arr,int n)
     {
-       int l = 0, r = n-1, mid;
-       while(l < r){
-           mid = l + (r-l)/2;
-           if(arr[mid] < arr[mid+1]){
-               l = mid + 1;
+       int lo = 0, hi = n-1;
+       
+       while(lo < hi){
+           int mid = (lo + hi) / 2;
+           
+           if(arr[mid] > arr[mid+1]){
+               hi = mid;
            } else {
-               r = mid;
+               lo = mid + 1;
            }
        }
-       return l;
+       return lo;
     }
 }
