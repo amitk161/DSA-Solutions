@@ -31,21 +31,27 @@ class GFG {
 
 class Solution {
     int findKRotation(int arr[], int n) {
-        int max = Integer.MIN_VALUE;
+        int lo = 0, hi = n - 1;
+        int k = Integer.MAX_VALUE;
+        int idx = -1;
         
-        for(int i=0; i<n; i++){
-            max = Math.max(max, arr[i]);
-        }
-        
-        if(max == arr[n-1])
-            return 0;
+        while(lo <= hi){
+            int mid = (lo + hi) / 2;
             
-        else 
-            for(int i=0; i<n; i++){
-                if(arr[i] == max){
-                    return i+1;
+            if(arr[lo] <= arr[mid]){
+                if(arr[lo] < k){
+                    k = arr[lo];
+                    idx = lo;
                 }
+                lo = mid + 1;
+            } else {
+                if(arr[mid] < k){
+                    k = arr[mid];
+                    idx = mid;
+                }
+                hi = mid - 1;
             }
-        return -1;    
+        }
+        return idx;
     }
 }
