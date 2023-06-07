@@ -36,17 +36,17 @@ class Sol
 {
     public static int matSearch(int mat[][], int N, int M, int X)
     {
-        int i=0; int j = mat[0].length-1;
+        int i = 0, j = mat[0].length - 1;
         
         while(i < mat.length && j >= 0){
             if(mat[i][j] == X)
                 return 1;
-            else if(mat[i][j] > X)
+            else if(mat[i][j] > X){
                 j--;
-            else
+            } else {
                 i++;
+            }    
         }
-        
         return 0;
     }
 }
