@@ -1,7 +1,12 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
-        int lo = 0, hi = Integer.MAX_VALUE - 1;
+        int lo = 0, hi = 0;
         int ans = -1;
+        
+        for(int i=0; i<bloomDay.length; i++){
+            lo = Math.min(lo, bloomDay[i]);
+            hi = Math.max(hi, bloomDay[i]);
+        }
         
         while(lo <= hi){
             int mid = (lo + (hi - lo) / 2);
@@ -16,22 +21,22 @@ class Solution {
         return ans;
     }
     
-    private boolean check(int[] arr, int mid, int m, int k){
-        int tot = 0, c = 0;
+    private boolean check(int[] arr, int mid, int m, int flowers){
+        int bouquetCount = 0, adj = 0;
         
         for(int i=0; i<arr.length; i++){
             if(arr[i] <= mid){
-                c++;
+                adj++;
                 
-                if(c == k){
-                    tot++;
-                    c = 0;
+                if(adj == flowers){
+                    bouquetCount++;
+                    adj = 0;
                 }
             } else 
-                c = 0;
+                adj = 0;
         }
         
-        if(tot >= m) return true;
+        if(bouquetCount >= m) return true;
         return false;
     }
 }
