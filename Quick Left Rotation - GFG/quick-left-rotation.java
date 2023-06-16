@@ -13,18 +13,17 @@ class Solution
     void leftRotate(long arr[], int k,int n)
     {
         k = k % n;
-        reverse(arr, 0, k-1);
-        reverse(arr, k, n-1);
-        reverse(arr, 0, n-1);
-    }
-    
-    private void reverse(long[] arr, int start, int end){
-        while(start <= end){
-            long temp = arr[start];
-            arr[start] = arr[end];
-            arr[end] = temp;
-            start++;
-            end--;
+        long[] temp = new long[k];
+        for(int i=0; i<k; i++){
+            temp[i] = arr[i];
+        }
+        
+        for(int i=0; i<n-k; i++){
+            arr[i] = arr[i + k];
+        }
+        
+        for(int i=n-k; i<n; i++){
+            arr[i] = temp[i - n + k];
         }
     }
 }
