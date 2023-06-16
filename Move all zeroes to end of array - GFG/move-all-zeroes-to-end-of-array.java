@@ -34,23 +34,15 @@ public class Main {
 
 class Solution {
     void pushZerosToEnd(int[] arr, int n) {
-        int[] temp = new int[n];
-        int j = 0, cnt = 0;
-    
-        for(int i=0; i<n; i++){
-            if(arr[i] != 0) {
-                temp[j++] = arr[i];
+        int snowBall = 0;
+        for(int i=0; i<arr.length; i++){
+            if(arr[i] == 0){
+                snowBall++;
             } else {
-                cnt++;
+                int t = arr[i];
+                arr[i] = 0;
+                arr[i - snowBall] = t;
             }
-        }
-        
-        for(int i=0; i<n-cnt; i++){
-            arr[i] = temp[i];
-        }
-        
-        for(int i=n-cnt; i<n; i++){
-            arr[i] = 0;
         }
     }
 }
