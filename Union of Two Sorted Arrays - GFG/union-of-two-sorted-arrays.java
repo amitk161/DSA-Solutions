@@ -54,20 +54,36 @@ class Solution
     //Function to return a list containing the union of the two arrays.
     public static ArrayList<Integer> findUnion(int arr1[], int arr2[], int n, int m)
     {
-        HashSet<Integer> set = new HashSet<>();
-        for(int i=0; i<n; i++){
-            set.add(arr1[i]);
-        }
-        
-        for(int i=0; i<m; i++){
-            set.add(arr2[i]);
-        }
-        
         ArrayList<Integer> list = new ArrayList<>();
-        for(int x: set){
-            list.add(x);
+        int i=0, j = 0;
+        
+        while(i < n && j < m){
+            if(arr1[i] <= arr2[j]){
+                if(list.size() == 0 || list.get(list.size()-1) != arr1[i]){
+                    list.add(arr1[i]);
+                }
+                i++;
+            } else {
+                if(list.size() == 0 || list.get(list.size()-1) != arr2[j]){
+                    list.add(arr2[j]);
+                }
+                j++;
+            }
         }
-        Collections.sort(list);
+        
+        while(i < n){
+            if(list.size() == 0 || list.get(list.size()-1) != arr1[i]){
+                list.add(arr1[i]);
+            }
+            i++;
+        }
+        
+        while(j < m){
+            if(list.size() == 0 || list.get(list.size()-1) != arr2[j]){
+                list.add(arr2[j]);
+            }
+            j++;
+        }
         return list;
     }
 }
