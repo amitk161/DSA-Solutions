@@ -1,17 +1,14 @@
 class Solution {
-    public int missingNumber(int[] arr) {
-        int n = arr.length+1;
+    public int missingNumber(int[] nums) {
+        int n = nums.length + 1;
+        int[] hash = new int[n+1];
+        
+        for(int i=0; i<n-1; i++){
+            hash[nums[i]] = 1;
+        }
         
         for(int i=0; i<=n; i++){
-            int flag = 0;
-            for(int j=0; j<n-1; j++){
-                if(arr[j] == i){
-                    flag = 1;
-                    break;
-                }
-            }
-            
-            if(flag == 0)
+            if(hash[i] != 1)
                 return i;
         }
         return -1;
