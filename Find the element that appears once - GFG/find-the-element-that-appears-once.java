@@ -33,15 +33,22 @@ class Sol
 {
     public static int search(int arr[], int n)
     {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for(int i=0; i<n; i++){
-            map.put(arr[i], map.getOrDefault(arr[i], 0) + 1);
-        }
+        int lo = 0, hi = n-1;
         
-        for(Map.Entry<Integer, Integer> it: map.entrySet()){
-            if(it.getValue() == 1)
-                return it.getKey();
+        while(lo <= hi){
+            int mid = (lo + (hi - lo) / 2);
+            
+            if((mid % 2 == 0 && mid + 1 < n && arr[mid] == arr[mid+1]) || 
+                mid % 2 == 1 && mid - 1 >= 0 && arr[mid] == arr[mid-1]){
+                    lo = mid + 1;
+            } else {
+                hi = mid - 1;
+            }
+            
+            if(mid - 1 >= 0 && mid + 1 < n && arr[mid] != arr[mid-1] && arr[mid] != arr[mid+1])
+                return arr[mid];
+            
         }
-        return -1;
+        return arr[lo];
     }
 }
