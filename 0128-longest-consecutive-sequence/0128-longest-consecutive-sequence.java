@@ -11,11 +11,11 @@ class Solution {
                 int currentNum = num;
                 int currentStreak = 1;
                 
-                while(set.contains(currentNum+1)){
-                    currentNum++;
+                while(set.contains(currentNum + 1)){
                     currentStreak++;
+                    currentNum++;
                 }
-                longestStreak = Math.max(longestStreak, currentStreak);
+              longestStreak = Math.max(longestStreak, currentStreak);
             }
         }
         return longestStreak;
