@@ -31,21 +31,19 @@ class GFG {
 
 class Solve {
     int[] findTwoElement(int arr[], int n) {
-        int[] dup = new int[n+1];
+        HashMap<Integer, Boolean> map = new HashMap<>();
         int[] res = new int[2];
         
         for(int i=0; i<n; i++){
-            if(dup[arr[i]] == 0){
-                dup[arr[i]] = 1;
+            if(map.get(arr[i]) == null){
+                map.put(arr[i], true);
             } else {
-                dup[arr[i]] = 2;
+                res[0] = arr[i];
             }
         }
         
-        for(int i=1; i<dup.length; i++){
-            if(dup[i] == 2){
-                res[0] = i;
-            } else if(dup[i] == 0){
+        for(int i=1; i<=n; i++){
+            if(map.get(i) == null){
                 res[1] = i;
             }
         }
