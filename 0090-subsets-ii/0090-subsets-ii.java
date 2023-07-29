@@ -1,20 +1,20 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        HashSet<List<Integer>> set = new HashSet<>();
+        List<List<Integer>> ans = new ArrayList<>();
         Arrays.sort(nums);
-        find(0, nums, set, new ArrayList<>());
-        return new ArrayList<>(set);
+        find(0, nums, ans, new ArrayList<>());
+        return ans;
     }
     
-    private void find(int ind, int[] nums, HashSet<List<Integer>> set, List<Integer> ds){
-        if(ind == nums.length){
-            set.add(new ArrayList<>(ds));
-            return;
-        }
+    private void find(int ind, int[] nums, List<List<Integer>> ans, List<Integer> ds){
+        ans.add(new ArrayList<>(ds));
         
-        ds.add(nums[ind]);
-        find(ind+1, nums, set, ds);
-        ds.remove(ds.size()-1);
-        find(ind+1, nums, set, ds);
+        for(int i=ind; i<nums.length; i++){
+            if(i > ind && nums[i] == nums[i-1]) continue;
+            
+            ds.add(nums[i]);
+            find(i+1, nums, ans, ds);
+            ds.remove(ds.size() - 1);
+        }
     }
 }
