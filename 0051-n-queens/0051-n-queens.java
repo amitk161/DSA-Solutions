@@ -8,55 +8,36 @@ class Solution {
         }
         
         List<List<String>> ans = new ArrayList<>();
-        dfs(0, n, board, ans);
+        int[] leftRow = new int[n];
+        int[] upperDiag = new int[2*n-1];
+        int[] lowerDiag = new int[2*n-1];
+        
+        solve(0, board, ans, leftRow, upperDiag, lowerDiag);
         return ans;
     }
     
-    private void dfs(int col, int n, char[][] board, List<List<String>> ans){
-        if(col == n){
+    private void solve(int col, char[][] board, List<List<String>> ans, int[] leftRow,
+                      int[] upperDiag, int[] lowerDiag){
+        if(col == board.length){
             ans.add(construct(board));
             return;
         }
         
-        for(int i=0; i<n; i++){
-            if(validate(board, i, col)){
+        for(int i=0; i<board.length; i++){
+            if(leftRow[i] == 0 && upperDiag[i+col] == 0 && lowerDiag[board.length-1+col-i] == 0){
                 board[i][col] = 'Q';
-                dfs(col+1, n, board, ans);
+                leftRow[i] = 1;
+                upperDiag[i+col] = 1;
+                lowerDiag[board.length-1+col-i] = 1;
+                
+                solve(col+1, board, ans, leftRow, upperDiag, lowerDiag);
+                
                 board[i][col] = '.';
+                leftRow[i] = 0;
+                upperDiag[i+col] = 0;
+                lowerDiag[board.length-1+col-i] = 0;
             }
         }
-    }
-    
-    private boolean validate(char[][] board, int row, int col){
-        int duprow = row;
-        int dupcol = col;
-        
-        while(row >= 0 && col >= 0){
-            if(board[row][col] == 'Q')
-                return false;
-            row--;
-            col--;
-        }
-        
-        row = duprow;
-        col = dupcol;
-        
-        while(col >= 0){
-            if(board[row][col] == 'Q')
-                return false;
-            col--;
-        }
-        
-        row = duprow;
-        col = dupcol;
-        
-        while(row < board.length && col >= 0){
-            if(board[row][col] == 'Q')
-                return false;
-            row++;
-            col--;
-        }
-        return true;
     }
     
     private List<String> construct(char[][] board){
