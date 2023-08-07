@@ -1,12 +1,12 @@
 class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
-        HashSet<List<Integer>> ans = new HashSet<>();
+        List<List<Integer>> ans = new ArrayList<>();
         findCombinations(1, 0, 0, k, n, new ArrayList<>(), ans);
         return new ArrayList<>(ans);
     }
     
     private void findCombinations(int ind, int count, int s, int k, int sum, 
-        List<Integer> ds, HashSet<List<Integer>> ans){
+        List<Integer> ds, List<List<Integer>> ans){
         if(count == k){
             if(s == sum){
                 ans.add(new ArrayList<>(ds));
@@ -20,7 +20,7 @@ class Solution {
                 findCombinations(i+1, count+1, s + i, k, sum, ds, ans);
                 ds.remove(ds.size() - 1);
             }
-            findCombinations(i+1, count, s, k, sum, ds, ans);
+            //findCombinations(i+1, count, s, k, sum, ds, ans);
         }
     }
 }
