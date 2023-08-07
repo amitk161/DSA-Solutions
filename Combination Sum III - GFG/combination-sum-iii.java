@@ -56,27 +56,27 @@ class GFG {
 
 class Solution {
     public static ArrayList<ArrayList<Integer>> combinationSum(int k, int n) {
-        HashSet<ArrayList<Integer>> ans = new HashSet<>();
+        ArrayList<ArrayList<Integer>> ans = new ArrayList<>();
         findCombinations(1, 0, 0, k, n, new ArrayList<>(), ans);
         return new ArrayList<>(ans);
     }
     
     private static void findCombinations(int ind, int count, int s, int k, int sum, ArrayList<Integer> ds,
-    HashSet<ArrayList<Integer>> ans){
+    ArrayList<ArrayList<Integer>> ans){
         if(count == k){
             if(s == sum){
                 ans.add(new ArrayList<>(ds));
             }
             return;
         }
-        
+          
         for(int i=ind; i<=9; i++){
             if(count < k){
                 ds.add(i);
                 findCombinations(i+1, count+1, s + i, k, sum, ds, ans);
                 ds.remove(ds.size() - 1);
             }
-            findCombinations(i+1, count, s, k, sum, ds, ans);
+            //findCombinations(i+1, count, s, k, sum, ds, ans);
         }
     }
 }
