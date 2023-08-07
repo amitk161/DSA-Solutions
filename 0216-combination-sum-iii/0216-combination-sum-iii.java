@@ -2,7 +2,7 @@ class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
         List<List<Integer>> ans = new ArrayList<>();
         findCombinations(1, 0, 0, k, n, new ArrayList<>(), ans);
-        return new ArrayList<>(ans);
+        return ans;
     }
     
     private void findCombinations(int ind, int count, int s, int k, int sum, 
