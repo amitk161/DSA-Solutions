@@ -15,7 +15,9 @@ class aToi
 			String str = sc.nextLine();
 			
 			Solution obj = new Solution();
-			System.out.println(obj.atoi(str));
+			int num = obj.atoi(str);
+			
+			System.out.println(num);
 		t--;
 		}
 	}
@@ -28,23 +30,24 @@ class aToi
 /*You are required to complete this method */
 class Solution
 {
-    int atoi(String str) {
+    int atoi(String s) {
 	    int result = 0;
-        int sign = 1;
-        int i = 0;
-        
-        if(str.charAt(i) == '-'){
-            sign = -1;
-            i++;
-        }
-        
-        while(i < str.length()){
-            if(!(str.charAt(i) - '0' >= 0 && str.charAt(i) - '0' <= 9)){
-                return -1;
-            }
-            result = result * 10 + str.charAt(i) - '0';
-            i++;
-        }
-        return result * sign;
+	    int i = 0;
+	    int sign = 1;
+	    
+	    if(s.charAt(i) == '-'){
+	        sign = -1;
+	        i++;
+	    }
+	    
+	    while(i < s.length()){
+	        if(!(s.charAt(i) - '0' >= 0 && s.charAt(i) - '0' <= 9)){
+	            return -1;
+	        }
+	        
+	        result = result * 10 + s.charAt(i) - '0';
+	        i++;
+	    }
+	    return result * sign;
     }
 }
