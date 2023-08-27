@@ -1,26 +1,16 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        int i = 0, j = 0, ans = 0, maxCount = 0;
-    int[] count = new int[26]; // Array to count occurrences of characters
-    int n = s.length();
-    
-    while (j < n) {
-        count[s.charAt(j) - 'A']++; // Increment the count of the character at index j
-        maxCount = Math.max(maxCount, count[s.charAt(j) - 'A']); // Update maxCount
-        
-        // Calculate the number of characters that need to be replaced
-        int replacements = (j - i + 1) - maxCount;
-        
-        if (replacements > k) {
-            count[s.charAt(i) - 'A']--; // Move the left pointer
-            i++;
+        int len = s.length();
+        int[] count = new int[26];
+        int start = 0, maxCount = 0, maxLength = 0;
+        for (int end = 0; end < len; end++) {
+            maxCount = Math.max(maxCount, ++count[s.charAt(end) - 'A']);
+            while (end - start + 1 - maxCount > k) {
+                count[s.charAt(start) - 'A']--;
+                start++;
+            }
+            maxLength = Math.max(maxLength, end - start + 1);
         }
-        
-        // Update the maximum length
-        ans = Math.max(ans, j - i + 1);
-        j++;
-    }
-    
-    return ans;
+        return maxLength;
     }
 }
