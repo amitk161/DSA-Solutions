@@ -6,6 +6,11 @@ class Solution {
         while(lo <= hi){
             int mid = (lo + hi) / 2;
 
+            if(nums[lo] <= nums[hi]){
+                ans = Math.min(ans, nums[lo]);
+                break;
+            }
+
             if(nums[lo] <= nums[mid]){
                 ans = Math.min(ans, nums[lo]);
                 lo = mid + 1;
