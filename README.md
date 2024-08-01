@@ -7,6 +7,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
@@ -30,5 +31,6 @@ Collection of LeetCode and GFG questions!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
