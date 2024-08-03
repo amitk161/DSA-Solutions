@@ -6,6 +6,7 @@ Collection of LeetCode and GFG questions!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -48,4 +49,8 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
