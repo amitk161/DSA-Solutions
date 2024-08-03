@@ -8,6 +8,7 @@ Collection of LeetCode and GFG questions!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
@@ -15,6 +16,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Breadth-First Search
 |  |
@@ -23,6 +25,7 @@ Collection of LeetCode and GFG questions!
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
