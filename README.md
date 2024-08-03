@@ -36,4 +36,16 @@ Collection of LeetCode and GFG questions!
 | ------- |
 | [0056-merge-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
