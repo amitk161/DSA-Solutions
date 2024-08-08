@@ -32,6 +32,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
+| [0908-middle-of-the-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +62,8 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amitk161/DSA-Solutions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
