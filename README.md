@@ -12,6 +12,7 @@ Collection of LeetCode and GFG questions!
 | [0074-search-a-2d-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/amitk161/DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
