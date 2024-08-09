@@ -33,6 +33,7 @@ Collection of LeetCode and GFG questions!
 | ------- |
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/amitk161/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/amitk161/DSA-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -40,6 +41,7 @@ Collection of LeetCode and GFG questions!
 | ------- |
 | [0056-merge-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/amitk161/DSA-Solutions/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +72,15 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amitk161/DSA-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/amitk161/DSA-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0908-middle-of-the-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/amitk161/DSA-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/amitk161/DSA-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
