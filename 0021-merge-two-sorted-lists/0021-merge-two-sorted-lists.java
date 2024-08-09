@@ -9,36 +9,26 @@
  * }
  */
 class Solution {
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ArrayList<Integer> list = new ArrayList<>();
-        ListNode temp1 = list1;
-        ListNode temp2 = list2;
-
-        while(temp1 != null){
-            list.add(temp1.val);
-            temp1 = temp1.next;
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        ListNode head = new ListNode(0);
+        ListNode handler = head;
+        while(l1 != null && l2 != null) {
+            if (l1.val <= l2.val) {
+                handler.next = l1;
+                l1 = l1.next;
+            } else {
+                handler.next = l2;
+                l2 = l2.next;
+            }
+            handler = handler.next;
         }
-
-        while(temp2 != null){
-            list.add(temp2.val);
-            temp2 = temp2.next;
+        
+        if (l1 != null) {
+            handler.next = l1;
+        } else if (l2 != null) {
+            handler.next = l2;
         }
-
-        Collections.sort(list);
-
-        ListNode head = convertToLL(list);
-        return head;
-    }
-
-    private ListNode convertToLL(ArrayList<Integer> list){
-        ListNode dummy = new ListNode();
-        ListNode temp = dummy;
-
-        for(int i=0; i<list.size(); i++){
-            temp.next = new ListNode(list.get(i));
-            temp = temp.next;
-        }
-
-        return dummy.next;
+        
+        return head.next;
     }
 }
