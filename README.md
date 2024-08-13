@@ -17,6 +17,7 @@ Collection of LeetCode and GFG questions!
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/amitk161/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/amitk161/DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -31,6 +32,7 @@ Collection of LeetCode and GFG questions!
 | [0074-search-a-2d-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/amitk161/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
 ## Breadth-First Search
