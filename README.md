@@ -22,6 +22,7 @@ Collection of LeetCode and GFG questions!
 | [0540-single-element-in-a-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/amitk161/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ Collection of LeetCode and GFG questions!
 | [0162-find-peak-element](https://github.com/amitk161/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/amitk161/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
 ## Breadth-First Search
 |  |
 | ------- |
