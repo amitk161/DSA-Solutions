@@ -24,6 +24,7 @@ Collection of LeetCode and GFG questions!
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/amitk161/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amitk161/DSA-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/amitk161/DSA-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
@@ -38,6 +39,7 @@ Collection of LeetCode and GFG questions!
 | [0540-single-element-in-a-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/amitk161/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amitk161/DSA-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/amitk161/DSA-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Breadth-First Search
 |  |
