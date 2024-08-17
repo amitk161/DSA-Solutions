@@ -1,38 +1,40 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        int lo = -1, hi = 0;
+        if(k > nums.length)
+            return -1;
+
+        int maxi = Integer.MIN_VALUE, sum = 0;
+
         for(int i=0; i<nums.length; i++){
-            lo = Math.min(lo, nums[i]);
-            hi += nums[i];
-        }
-        
-        int ans = -1;
+            maxi = Math.max(maxi, nums[i]);
+            sum += nums[i];
+        }    
+
+        int lo = maxi, hi = sum;
+
         while(lo <= hi){
-            int mid = (lo + (hi - lo) / 2);
-            
-            if(isPossible(nums, mid, k)){
-                ans = mid;
-                hi = mid - 1;
-            } else {
+            int mid = (lo + hi) / 2;
+            int cnt = getAnswer(nums, mid);
+
+            if(cnt > k)
                 lo = mid + 1;
-            }
+            else
+                hi = mid - 1;    
         }
-        return ans;
+        return lo;
     }
-    
-    private boolean isPossible(int[] nums, int mid, int k){
-        int cnt = 1, sum = 0;
+
+    private int getAnswer(int[] nums, int mid){
+        int part = 1, elements = 0;
+
         for(int i=0; i<nums.length; i++){
-            if(nums[i] > mid) return false;
-            
-            if(sum + nums[i] > mid){
-                cnt++;
-                sum = nums[i];
+            if(elements + nums[i] <= mid){
+                elements += nums[i];
             } else {
-                sum += nums[i];
+                part++;
+                elements = nums[i];
             }
         }
-        if(cnt > k) return false;
-        return true;
+        return part;
     }
 }
