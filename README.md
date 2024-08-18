@@ -7,6 +7,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/amitk161/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/amitk161/DSA-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -32,6 +33,7 @@ Collection of LeetCode and GFG questions!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amitk161/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/amitk161/DSA-Solutions/tree/master/0035-search-insert-position) |
@@ -114,6 +116,7 @@ Collection of LeetCode and GFG questions!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amitk161/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/amitk161/DSA-Solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
