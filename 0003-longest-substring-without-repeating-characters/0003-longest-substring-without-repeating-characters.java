@@ -10,7 +10,7 @@ class Solution {
                     break;
 
                 maxLen = Math.max(maxLen, j - i + 1);
-                set.add(s.charAt(j));
+                set.add(s.charAt(j));    
             }
         }
         return maxLen;
