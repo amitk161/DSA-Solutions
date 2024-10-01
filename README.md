@@ -22,6 +22,7 @@ Collection of LeetCode and GFG questions!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amitk161/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/amitk161/DSA-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -90,6 +91,7 @@ Collection of LeetCode and GFG questions!
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/amitk161/DSA-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode and GFG questions!
 | [0141-linked-list-cycle](https://github.com/amitk161/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 ## String
@@ -171,4 +174,5 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
