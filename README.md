@@ -96,6 +96,7 @@ Collection of LeetCode and GFG questions!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/amitk161/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
 ## Dynamic Programming
@@ -131,6 +132,7 @@ Collection of LeetCode and GFG questions!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amitk161/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/amitk161/DSA-Solutions/tree/master/0141-linked-list-cycle) |
@@ -152,6 +154,7 @@ Collection of LeetCode and GFG questions!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Sliding Window
 |  |
