@@ -19,6 +19,7 @@ Collection of LeetCode and GFG questions!
 | [0056-merge-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/amitk161/DSA-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amitk161/DSA-Solutions/tree/master/0162-find-peak-element) |
@@ -208,4 +209,12 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amitk161/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/amitk161/DSA-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/amitk161/DSA-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
