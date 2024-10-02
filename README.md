@@ -133,6 +133,7 @@ Collection of LeetCode and GFG questions!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amitk161/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/amitk161/DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/amitk161/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amitk161/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/amitk161/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/amitk161/DSA-Solutions/tree/master/0344-reverse-string) |
@@ -196,4 +197,8 @@ Collection of LeetCode and GFG questions!
 | ------- |
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/amitk161/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
