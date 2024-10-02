@@ -10,20 +10,12 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode temp = head;
-        int cnt = 0;
+        ListNode slow = head, fast = head;
 
-        while(temp != null){
-            cnt++;
-            temp = temp.next;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
-
-        temp = head;
-        cnt = cnt/2;
-
-        for(int i=0; i<cnt; i++){
-            temp = temp.next;
-        }
-        return temp;
+        return slow;
     }
 }
