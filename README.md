@@ -77,6 +77,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amitk161/DSA-Solutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/amitk161/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/amitk161/DSA-Solutions/tree/master/0141-linked-list-cycle) |
@@ -130,6 +131,7 @@ Collection of LeetCode and GFG questions!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/amitk161/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/amitk161/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/amitk161/DSA-Solutions/tree/master/0148-sort-list) |
