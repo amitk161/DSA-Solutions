@@ -18,8 +18,8 @@ class Solution {
             temp = temp.next;
         }
 
-        cnt = cnt / 2;
         temp = head;
+        cnt = cnt/2;
 
         for(int i=0; i<cnt; i++){
             temp = temp.next;
