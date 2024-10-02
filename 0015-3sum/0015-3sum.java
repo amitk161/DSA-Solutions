@@ -4,19 +4,21 @@ class Solution {
         int n = nums.length;
 
         for(int i=0; i<n; i++){
+            HashSet<Integer> hs = new HashSet<>();
             for(int j=i+1; j<n; j++){
-                for(int k=j+1; k<n; k++){
-                    if(nums[i] + nums[j] + nums[k] == 0){
-                        List<Integer> list = new ArrayList<>();
-                        list.add(nums[i]);
-                        list.add(nums[j]);
-                        list.add(nums[k]);
-                        Collections.sort(list);
-                        set.add(list);
-                    }
+                int third = -(nums[i] + nums[j]);
+                if(hs.contains(third)){
+                    List<Integer> list = new ArrayList<>();
+                    list.add(nums[i]);
+                    list.add(nums[j]);
+                    list.add(third);
+                    Collections.sort(list);
+                    set.add(list);
                 }
+                hs.add(nums[j]);
             }
         }
+
         return new ArrayList<>(set);
     }
 }
