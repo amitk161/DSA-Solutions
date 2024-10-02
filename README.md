@@ -99,6 +99,7 @@ Collection of LeetCode and GFG questions!
 | [0148-sort-list](https://github.com/amitk161/DSA-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode and GFG questions!
 | [0160-intersection-of-two-linked-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 ## String
@@ -136,6 +138,7 @@ Collection of LeetCode and GFG questions!
 | [0014-longest-common-prefix](https://github.com/amitk161/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amitk161/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/amitk161/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/amitk161/DSA-Solutions/tree/master/0344-reverse-string) |
 ## Stack
 |  |
