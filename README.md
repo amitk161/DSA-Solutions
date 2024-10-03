@@ -26,6 +26,7 @@ Collection of LeetCode and GFG questions!
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/amitk161/DSA-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -134,6 +135,7 @@ Collection of LeetCode and GFG questions!
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -147,6 +149,7 @@ Collection of LeetCode and GFG questions!
 | [0049-group-anagrams](https://github.com/amitk161/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/amitk161/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/amitk161/DSA-Solutions/tree/master/0344-reverse-string) |
 ## Stack
 |  |
@@ -212,6 +215,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amitk161/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 ## Backtracking
 |  |
 | ------- |
