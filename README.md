@@ -232,4 +232,20 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
