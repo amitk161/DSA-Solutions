@@ -1,16 +1,13 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
-        int maxi = getMax(weights);
-        int sum = getSum(weights);
-
-        int lo = maxi, hi = sum;
+        int lo = getMax(weights);
+        int hi = getSum(weights);
         int ans = 0;
 
         while(lo <= hi){
             int mid = (lo + hi) / 2;
-            int minDay = getDays(weights, mid);
 
-            if(minDay <= days){
+            if(getDays(weights, mid) <= days){
                 ans = mid;
                 hi = mid - 1;
             } else {
@@ -20,7 +17,7 @@ class Solution {
         return ans;
     }
 
-    private int getDays(int[] weights, int cap){
+    public int getDays(int[] weights, int cap){
         int minDay = 1, sum = 0;
 
         for(int i=0; i<weights.length; i++){
