@@ -13,6 +13,7 @@ Collection of LeetCode and GFG questions!
 | [0033-search-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/amitk161/DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/amitk161/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/amitk161/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amitk161/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/amitk161/DSA-Solutions/tree/master/0053-maximum-subarray) |
@@ -84,6 +85,7 @@ Collection of LeetCode and GFG questions!
 | [0015-3sum](https://github.com/amitk161/DSA-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amitk161/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/amitk161/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/amitk161/DSA-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/amitk161/DSA-Solutions/tree/master/0141-linked-list-cycle) |
@@ -116,6 +118,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amitk161/DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/amitk161/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/amitk161/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -155,6 +158,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amitk161/DSA-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/amitk161/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -248,4 +252,8 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/amitk161/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
