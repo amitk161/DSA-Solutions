@@ -27,6 +27,7 @@ Collection of LeetCode and GFG questions!
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/amitk161/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -56,6 +57,7 @@ Collection of LeetCode and GFG questions!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amitk161/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/amitk161/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
@@ -94,6 +96,7 @@ Collection of LeetCode and GFG questions!
 | [0151-reverse-words-in-a-string](https://github.com/amitk161/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/amitk161/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/amitk161/DSA-Solutions/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -228,6 +231,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/amitk161/DSA-Solutions/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/amitk161/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
