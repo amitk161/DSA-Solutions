@@ -1,15 +1,14 @@
-class Pair{
+class Pair {
     int row;
     int col;
     int tm;
-    
+
     public Pair(int row, int col, int tm){
         this.row = row;
         this.col = col;
         this.tm = tm;
     }
 }
-
 class Solution {
     public int orangesRotting(int[][] grid) {
         int n = grid.length;
@@ -48,7 +47,7 @@ class Solution {
                 int nrow = r + delrow[i];
                 int ncol = c + delcol[i];
 
-                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m
+                if(nrow >=0 && nrow < n && ncol >= 0 && ncol < m
                 && vis[nrow][ncol] == 0 && grid[nrow][ncol] == 1){
                     q.add(new Pair(nrow, ncol, t+1));
                     vis[nrow][ncol] = 1;
@@ -57,9 +56,9 @@ class Solution {
             }
         }
 
-        if(cnt != cntFresh){
+        if(cnt != cntFresh)
             return -1;
-        }
-        return tm;
+
+        return tm;    
     }
 }
