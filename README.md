@@ -33,6 +33,7 @@ Collection of LeetCode and GFG questions!
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/amitk161/DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
@@ -72,6 +73,7 @@ Collection of LeetCode and GFG questions!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
 ## Matrix
@@ -80,6 +82,7 @@ Collection of LeetCode and GFG questions!
 | [0048-rotate-image](https://github.com/amitk161/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/2047-find-a-peak-element-ii) |
@@ -128,6 +131,7 @@ Collection of LeetCode and GFG questions!
 | [0053-maximum-subarray](https://github.com/amitk161/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
 ## Combinatorics
 |  |
 | ------- |
