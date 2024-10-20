@@ -17,6 +17,7 @@ Collection of LeetCode and GFG questions!
 | [0048-rotate-image](https://github.com/amitk161/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amitk161/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/amitk161/DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/amitk161/DSA-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/amitk161/DSA-Solutions/tree/master/0075-sort-colors) |
@@ -136,6 +137,7 @@ Collection of LeetCode and GFG questions!
 | [0005-longest-palindromic-substring](https://github.com/amitk161/DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/amitk161/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/amitk161/DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/amitk161/DSA-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
@@ -226,6 +228,7 @@ Collection of LeetCode and GFG questions!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/amitk161/DSA-Solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/amitk161/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/amitk161/DSA-Solutions/tree/master/0890-lemonade-change) |
