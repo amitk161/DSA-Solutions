@@ -35,6 +35,7 @@ Collection of LeetCode and GFG questions!
 | [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amitk161/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amitk161/DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -125,6 +126,7 @@ Collection of LeetCode and GFG questions!
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amitk161/DSA-Solutions/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -143,6 +145,7 @@ Collection of LeetCode and GFG questions!
 | [0055-jump-game](https://github.com/amitk161/DSA-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
 ## Combinatorics
 |  |
@@ -234,6 +237,7 @@ Collection of LeetCode and GFG questions!
 | [0045-jump-game-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amitk161/DSA-Solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amitk161/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/amitk161/DSA-Solutions/tree/master/0890-lemonade-change) |
 ## Counting
