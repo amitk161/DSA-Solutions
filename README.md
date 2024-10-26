@@ -51,6 +51,7 @@ Collection of LeetCode and GFG questions!
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/amitk161/DSA-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amitk161/DSA-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amitk161/DSA-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/amitk161/DSA-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -86,6 +87,7 @@ Collection of LeetCode and GFG questions!
 | [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Collection of LeetCode and GFG questions!
 | [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
 | [2047-find-a-peak-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
@@ -282,6 +285,7 @@ Collection of LeetCode and GFG questions!
 | [0098-validate-binary-search-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/amitk161/DSA-Solutions/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -298,6 +302,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amitk161/DSA-Solutions/tree/master/0130-surrounded-regions) |
+| [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
