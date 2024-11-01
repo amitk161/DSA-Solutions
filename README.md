@@ -162,6 +162,7 @@ Collection of LeetCode and GFG questions!
 | [0435-non-overlapping-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amitk161/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/amitk161/DSA-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Combinatorics
 |  |
 | ------- |
@@ -335,13 +336,16 @@ Collection of LeetCode and GFG questions!
 | [0207-course-schedule](https://github.com/amitk161/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0210-course-schedule-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amitk161/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/amitk161/DSA-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/amitk161/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0210-course-schedule-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/amitk161/DSA-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amitk161/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/amitk161/DSA-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
