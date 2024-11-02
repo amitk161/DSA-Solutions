@@ -43,6 +43,7 @@ Collection of LeetCode and GFG questions!
 | [0540-single-element-in-a-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/amitk161/DSA-Solutions/tree/master/0890-lemonade-change) |
@@ -90,6 +91,7 @@ Collection of LeetCode and GFG questions!
 | [0207-course-schedule](https://github.com/amitk161/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amitk161/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
@@ -143,6 +145,7 @@ Collection of LeetCode and GFG questions!
 | [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amitk161/DSA-Solutions/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +187,7 @@ Collection of LeetCode and GFG questions!
 | [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 ## String
 |  |
@@ -198,6 +202,7 @@ Collection of LeetCode and GFG questions!
 | [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/amitk161/DSA-Solutions/tree/master/0344-reverse-string) |
+| [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 ## Stack
 |  |
 | ------- |
@@ -299,6 +304,7 @@ Collection of LeetCode and GFG questions!
 | [0130-surrounded-regions](https://github.com/amitk161/DSA-Solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/amitk161/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amitk161/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
@@ -320,6 +326,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amitk161/DSA-Solutions/tree/master/0130-surrounded-regions) |
+| [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/amitk161/DSA-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/amitk161/DSA-Solutions/tree/master/1753-path-with-minimum-effort) |
