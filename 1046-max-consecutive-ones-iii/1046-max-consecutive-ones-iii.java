@@ -9,14 +9,15 @@ class Solution {
                 zeros++;
             }
 
-            while(zeros > k){
-                if(nums[l] == 0){
+            if(zeros > k){
+                if(nums[l] == 0)
                     zeros--;
-                }
-                l++;
+                l++;    
             }
 
-            maxLen = Math.max(maxLen, r-l+1);
+            if(zeros <= k){
+                maxLen = Math.max(maxLen, r-l+1);
+            }
             r++;
         }
         return maxLen;
