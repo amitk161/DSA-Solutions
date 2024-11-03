@@ -192,6 +192,7 @@ Collection of LeetCode and GFG questions!
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/amitk161/DSA-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
@@ -311,6 +312,7 @@ Collection of LeetCode and GFG questions!
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amitk161/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/amitk161/DSA-Solutions/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/amitk161/DSA-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/amitk161/DSA-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/amitk161/DSA-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -332,6 +334,7 @@ Collection of LeetCode and GFG questions!
 | [0130-surrounded-regions](https://github.com/amitk161/DSA-Solutions/tree/master/0130-surrounded-regions) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/amitk161/DSA-Solutions/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/amitk161/DSA-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/amitk161/DSA-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/amitk161/DSA-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -351,6 +354,7 @@ Collection of LeetCode and GFG questions!
 | [0207-course-schedule](https://github.com/amitk161/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0210-course-schedule-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amitk161/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/amitk161/DSA-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/amitk161/DSA-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/amitk161/DSA-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
