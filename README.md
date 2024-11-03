@@ -189,6 +189,7 @@ Collection of LeetCode and GFG questions!
 | [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/amitk161/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -206,6 +207,7 @@ Collection of LeetCode and GFG questions!
 | [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/amitk161/DSA-Solutions/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/amitk161/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 ## Stack
 |  |
@@ -249,6 +251,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amitk161/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/amitk161/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amitk161/DSA-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
