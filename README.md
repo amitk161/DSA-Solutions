@@ -194,6 +194,7 @@ Collection of LeetCode and GFG questions!
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amitk161/DSA-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/amitk161/DSA-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Collection of LeetCode and GFG questions!
 | [0344-reverse-string](https://github.com/amitk161/DSA-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/amitk161/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/amitk161/DSA-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
@@ -254,6 +256,7 @@ Collection of LeetCode and GFG questions!
 | [0424-longest-repeating-character-replacement](https://github.com/amitk161/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/amitk161/DSA-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amitk161/DSA-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
