@@ -6,10 +6,11 @@ class Solution {
         for(int i=0; i<k; i++){
             lsum += cardPoints[i];
         }
+
         maxSum = lsum;
         int rIndex = n - 1;
 
-        for(int i=k-1; i >= 0; i--){
+        for(int i=k-1; i>=0; i--){
             lsum -= cardPoints[i];
             rsum += cardPoints[rIndex];
             rIndex = rIndex - 1;
