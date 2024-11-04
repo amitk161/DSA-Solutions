@@ -1,22 +1,15 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        return getArray(nums, goal) - getArray(nums, goal - 1);
-    }
+        int cnt = 0;
 
-    private int getArray(int[] nums, int goal){
-        if(goal < 0) return 0;
-        int l = 0, r = 0, sum = 0, cnt = 0;
+        for(int i=0; i<nums.length; i++){
+            int sum = 0;
+            for(int j=i; j<nums.length; j++){
+                sum += nums[j];
 
-        while(r < nums.length){
-            sum += nums[r];
-
-            while(sum > goal){
-                sum -= nums[l];
-                l++;
+                if(sum == goal)
+                    cnt++;
             }
-
-            cnt += (r - l + 1);
-            r++;
         }
         return cnt;
     }
