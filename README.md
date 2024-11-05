@@ -56,6 +56,7 @@ Collection of LeetCode and GFG questions!
 | [1046-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/amitk161/DSA-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
+| [1256-rank-transform-of-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amitk161/DSA-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amitk161/DSA-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/amitk161/DSA-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -152,6 +153,7 @@ Collection of LeetCode and GFG questions!
 | [0455-assign-cookies](https://github.com/amitk161/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/amitk161/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
+| [1256-rank-transform-of-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/1256-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Collection of LeetCode and GFG questions!
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amitk161/DSA-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/amitk161/DSA-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1256-rank-transform-of-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amitk161/DSA-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
