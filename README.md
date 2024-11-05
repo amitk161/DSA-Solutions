@@ -303,6 +303,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Randomized
 |  |
 | ------- |
@@ -311,6 +312,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -330,10 +332,12 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -352,6 +356,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amitk161/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/amitk161/DSA-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
@@ -378,4 +383,8 @@ Collection of LeetCode and GFG questions!
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amitk161/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/amitk161/DSA-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
