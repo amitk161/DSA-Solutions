@@ -237,6 +237,7 @@ Collection of LeetCode and GFG questions!
 | [0002-add-two-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amitk161/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/amitk161/DSA-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/amitk161/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -248,6 +249,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amitk161/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/amitk161/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/amitk161/DSA-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
@@ -256,6 +258,7 @@ Collection of LeetCode and GFG questions!
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/amitk161/DSA-Solutions/tree/master/0148-sort-list) |
 ## Recursion
 |  |
@@ -371,6 +374,7 @@ Collection of LeetCode and GFG questions!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/amitk161/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
