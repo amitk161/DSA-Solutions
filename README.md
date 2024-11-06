@@ -59,6 +59,7 @@ Collection of LeetCode and GFG questions!
 | [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amitk161/DSA-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amitk161/DSA-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/amitk161/DSA-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/amitk161/DSA-Solutions/tree/master/1646-kth-missing-positive-number) |
@@ -156,6 +157,7 @@ Collection of LeetCode and GFG questions!
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/amitk161/DSA-Solutions/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Collection of LeetCode and GFG questions!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amitk161/DSA-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/amitk161/DSA-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amitk161/DSA-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -290,6 +293,7 @@ Collection of LeetCode and GFG questions!
 | [0621-task-scheduler](https://github.com/amitk161/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/amitk161/DSA-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/amitk161/DSA-Solutions/tree/master/0890-lemonade-change) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Counting
 |  |
 | ------- |
