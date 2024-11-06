@@ -8,39 +8,43 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+class Pair{
+    int value;
+    ListNode node;
+
+    public Pair(int value, ListNode node){
+        this.value = value;
+        this.node = node;
+    }
+}
+
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if (lists == null || lists.length == 0) {
+        if(lists.length == 0 || lists == null)
             return null;
-        }
-        
-        ListNode head = lists[0];
 
-        for(int i=1; i<lists.length; i++){
-            head = mergeTwoLists(head, lists[i]);
-        }
-        return head;
-    }
+        PriorityQueue<Pair> pq = new PriorityQueue<>((x, y) -> x.value - y.value);
 
-    private ListNode mergeTwoLists(ListNode list1, ListNode list2){
-        ListNode dummy = new ListNode();
-        ListNode temp = dummy;
-
-        while(list1 != null && list2 != null){
-            if(list1.val <= list2.val){
-                temp.next = list1;
-                list1 = list1.next;
-            } else {
-                temp.next = list2;
-                list2 = list2.next;
+        for(int i=0; i<lists.length; i++){
+            if(lists[i] != null){
+                pq.add(new Pair(lists[i].val, lists[i]));
             }
-            temp = temp.next;
         }
 
-        if(list1 != null){
-            temp.next = list1;
-        } else {
-            temp.next = list2;
+        ListNode dummy = new ListNode(-1);
+        ListNode temp = dummy;
+        
+        while(!pq.isEmpty()){
+            Pair it = pq.poll();
+            ListNode node = it.node;
+            
+            if(node.next != null){
+                pq.add(new Pair(node.next.val, node.next));
+            }
+
+            temp.next = node;
+            temp = temp.next;
         }
         return dummy.next;
     }
