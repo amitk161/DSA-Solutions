@@ -48,6 +48,7 @@ Collection of LeetCode and GFG questions!
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/amitk161/DSA-Solutions/tree/master/0854-making-a-large-island) |
+| [0876-hand-of-straights](https://github.com/amitk161/DSA-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/amitk161/DSA-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/amitk161/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -153,6 +154,7 @@ Collection of LeetCode and GFG questions!
 | [0455-assign-cookies](https://github.com/amitk161/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/amitk161/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
+| [0876-hand-of-straights](https://github.com/amitk161/DSA-Solutions/tree/master/0876-hand-of-straights) |
 | [1256-rank-transform-of-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/1256-rank-transform-of-an-array) |
 ## Math
 |  |
@@ -198,6 +200,7 @@ Collection of LeetCode and GFG questions!
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/amitk161/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
+| [0876-hand-of-straights](https://github.com/amitk161/DSA-Solutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amitk161/DSA-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/amitk161/DSA-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -285,6 +288,7 @@ Collection of LeetCode and GFG questions!
 | [0435-non-overlapping-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amitk161/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/amitk161/DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/amitk161/DSA-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/amitk161/DSA-Solutions/tree/master/0890-lemonade-change) |
 ## Counting
 |  |
