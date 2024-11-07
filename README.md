@@ -168,6 +168,7 @@ Collection of LeetCode and GFG questions!
 | [0002-add-two-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/amitk161/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
+| [0282-expression-add-operators](https://github.com/amitk161/DSA-Solutions/tree/master/0282-expression-add-operators) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
@@ -225,6 +226,7 @@ Collection of LeetCode and GFG questions!
 | [0127-word-ladder](https://github.com/amitk161/DSA-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/amitk161/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/amitk161/DSA-Solutions/tree/master/0282-expression-add-operators) |
 | [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/amitk161/DSA-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/amitk161/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -320,6 +322,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/amitk161/DSA-Solutions/tree/master/0078-subsets) |
+| [0282-expression-add-operators](https://github.com/amitk161/DSA-Solutions/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
