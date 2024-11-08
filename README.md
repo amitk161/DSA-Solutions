@@ -45,6 +45,7 @@ Collection of LeetCode and GFG questions!
 | [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/amitk161/DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0679-24-game](https://github.com/amitk161/DSA-Solutions/tree/master/0679-24-game) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
@@ -170,6 +171,7 @@ Collection of LeetCode and GFG questions!
 | [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
 | [0282-expression-add-operators](https://github.com/amitk161/DSA-Solutions/tree/master/0282-expression-add-operators) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0679-24-game](https://github.com/amitk161/DSA-Solutions/tree/master/0679-24-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -323,6 +325,7 @@ Collection of LeetCode and GFG questions!
 | ------- |
 | [0078-subsets](https://github.com/amitk161/DSA-Solutions/tree/master/0078-subsets) |
 | [0282-expression-add-operators](https://github.com/amitk161/DSA-Solutions/tree/master/0282-expression-add-operators) |
+| [0679-24-game](https://github.com/amitk161/DSA-Solutions/tree/master/0679-24-game) |
 ## Bit Manipulation
 |  |
 | ------- |
