@@ -62,6 +62,7 @@ Collection of LeetCode and GFG questions!
 | [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
 | [1184-car-pooling](https://github.com/amitk161/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/amitk161/DSA-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amitk161/DSA-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amitk161/DSA-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -88,6 +89,7 @@ Collection of LeetCode and GFG questions!
 | [0907-koko-eating-bananas](https://github.com/amitk161/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/amitk161/DSA-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/amitk161/DSA-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amitk161/DSA-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/amitk161/DSA-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/amitk161/DSA-Solutions/tree/master/1646-kth-missing-positive-number) |
@@ -167,6 +169,7 @@ Collection of LeetCode and GFG questions!
 | [0876-hand-of-straights](https://github.com/amitk161/DSA-Solutions/tree/master/0876-hand-of-straights) |
 | [1184-car-pooling](https://github.com/amitk161/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/amitk161/DSA-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Math
 |  |
@@ -190,6 +193,7 @@ Collection of LeetCode and GFG questions!
 | [0435-non-overlapping-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amitk161/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/amitk161/DSA-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/amitk161/DSA-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Combinatorics
 |  |
