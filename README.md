@@ -60,6 +60,7 @@ Collection of LeetCode and GFG questions!
 | [1046-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/amitk161/DSA-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/amitk161/DSA-Solutions/tree/master/1073-number-of-enclaves) |
+| [1184-car-pooling](https://github.com/amitk161/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amitk161/DSA-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -164,6 +165,7 @@ Collection of LeetCode and GFG questions!
 | [0621-task-scheduler](https://github.com/amitk161/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/amitk161/DSA-Solutions/tree/master/0876-hand-of-straights) |
+| [1184-car-pooling](https://github.com/amitk161/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Math
@@ -296,6 +298,7 @@ Collection of LeetCode and GFG questions!
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/amitk161/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amitk161/DSA-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
@@ -399,6 +402,7 @@ Collection of LeetCode and GFG questions!
 | [0621-task-scheduler](https://github.com/amitk161/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amitk161/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1184-car-pooling](https://github.com/amitk161/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1753-path-with-minimum-effort](https://github.com/amitk161/DSA-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
@@ -434,4 +438,8 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/amitk161/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/amitk161/DSA-Solutions/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
