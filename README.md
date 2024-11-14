@@ -208,6 +208,7 @@ Collection of LeetCode and GFG questions!
 | [0127-word-ladder](https://github.com/amitk161/DSA-Solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/amitk161/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/amitk161/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
@@ -259,6 +260,7 @@ Collection of LeetCode and GFG questions!
 | [0061-rotate-list](https://github.com/amitk161/DSA-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/amitk161/DSA-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/amitk161/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/amitk161/DSA-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -344,6 +346,7 @@ Collection of LeetCode and GFG questions!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/amitk161/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -446,4 +449,8 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/amitk161/DSA-Solutions/tree/master/1184-car-pooling) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/amitk161/DSA-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
