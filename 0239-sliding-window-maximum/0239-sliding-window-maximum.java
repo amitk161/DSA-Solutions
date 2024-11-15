@@ -3,17 +3,16 @@ class Solution {
         int n = nums.length;
         int[] res = new int[n-k+1];
         int ind = 0;
-        
+
         Deque<Integer> q = new ArrayDeque<>();
-        for(int i=0; i<n; i++){
-            while(!q.isEmpty() && q.peek() == i-k){
+        for(int i=0; i<nums.length; i++){
+            if(!q.isEmpty() && q.peek() == i - k)
                 q.poll();
-            }
-            
+
             while(!q.isEmpty() && nums[q.peekLast()] <= nums[i]){
                 q.pollLast();
-            }
-            
+            }    
+
             q.offer(i);
             if(i >= k-1){
                 res[ind++] = nums[q.peek()];
