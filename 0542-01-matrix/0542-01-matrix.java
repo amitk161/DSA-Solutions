@@ -36,12 +36,12 @@ class Solution {
             int steps = q.peek().third;
             q.remove();
             ans[row][col] = steps;
-
+            
             for(int i=0; i<4; i++){
                 int nrow = row + delrow[i];
                 int ncol = col + delcol[i];
 
-                if(nrow >=0 && nrow < n && ncol >= 0 && ncol < m
+                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m
                 && vis[nrow][ncol] == 0){
                     vis[nrow][ncol] = 1;
                     q.add(new Pair(nrow, ncol, steps+1));
