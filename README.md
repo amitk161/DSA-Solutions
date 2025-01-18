@@ -250,6 +250,7 @@ Collection of LeetCode and GFG questions!
 | ------- |
 | [0020-valid-parentheses](https://github.com/amitk161/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amitk161/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -360,12 +361,14 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/amitk161/DSA-Solutions/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/amitk161/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amitk161/DSA-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -386,6 +389,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
