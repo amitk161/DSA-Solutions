@@ -4,7 +4,7 @@ class Solution {
     }
 
     private int getAnswer(int[] nums, int k){
-        int l = 0, r = 0, cnt = 0;
+        int l = 0, r = 0, cnt = 0;;
         HashMap<Integer, Integer> map = new HashMap<>();
 
         while(r < nums.length){
