@@ -71,6 +71,7 @@ Collection of LeetCode and GFG questions!
 | [1646-kth-missing-positive-number](https://github.com/amitk161/DSA-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/amitk161/DSA-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/amitk161/DSA-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Collection of LeetCode and GFG questions!
 | [0455-assign-cookies](https://github.com/amitk161/DSA-Solutions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/amitk161/DSA-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -463,6 +465,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/amitk161/DSA-Solutions/tree/master/1184-car-pooling) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/amitk161/DSA-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Doubly-Linked List
 |  |
 | ------- |
