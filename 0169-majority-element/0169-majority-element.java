@@ -6,7 +6,7 @@ class Solution {
             int cnt = 0;
             for(int j=0; j<n; j++){
                 if(nums[i] == nums[j])
-                    cnt++;
+                    cnt++;    
             }
             if(cnt > n/2)
                 return nums[i];
