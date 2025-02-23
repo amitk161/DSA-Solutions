@@ -27,6 +27,7 @@ Collection of LeetCode and GFG questions!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/amitk161/DSA-Solutions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/amitk161/DSA-Solutions/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/amitk161/DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amitk161/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
@@ -193,6 +194,7 @@ Collection of LeetCode and GFG questions!
 | [0053-maximum-subarray](https://github.com/amitk161/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/amitk161/DSA-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
+| [0152-maximum-product-subarray](https://github.com/amitk161/DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
