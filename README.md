@@ -31,6 +31,7 @@ Collection of LeetCode and GFG questions!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amitk161/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/amitk161/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/amitk161/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -106,6 +107,7 @@ Collection of LeetCode and GFG questions!
 | [0127-word-ladder](https://github.com/amitk161/DSA-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/amitk161/DSA-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/amitk161/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/amitk161/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amitk161/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amitk161/DSA-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -124,6 +126,7 @@ Collection of LeetCode and GFG questions!
 | [0048-rotate-image](https://github.com/amitk161/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/amitk161/DSA-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/amitk161/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amitk161/DSA-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/amitk161/DSA-Solutions/tree/master/0542-01-matrix) |
@@ -388,6 +391,7 @@ Collection of LeetCode and GFG questions!
 | [0130-surrounded-regions](https://github.com/amitk161/DSA-Solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amitk161/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/amitk161/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amitk161/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amitk161/DSA-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -421,6 +425,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amitk161/DSA-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/amitk161/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/amitk161/DSA-Solutions/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amitk161/DSA-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
