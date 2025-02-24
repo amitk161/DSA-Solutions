@@ -18,10 +18,10 @@ class Solution {
             }
         }
 
-        List<List<String>> res = new ArrayList<>();
-        for(ArrayList<String> val: bmap.values()){
-            res.add(val);
+        List<List<String>> ans = new ArrayList<>();
+        for(ArrayList<String> list: bmap.values()){
+            ans.add(list);
         }
-        return res;
+        return ans;
     }
 }
