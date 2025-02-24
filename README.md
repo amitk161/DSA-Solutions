@@ -54,6 +54,7 @@ Collection of LeetCode and GFG questions!
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/amitk161/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/amitk161/DSA-Solutions/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/amitk161/DSA-Solutions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/amitk161/DSA-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/amitk161/DSA-Solutions/tree/master/0890-lemonade-change) |
@@ -234,6 +235,7 @@ Collection of LeetCode and GFG questions!
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/amitk161/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
+| [0817-design-hashmap](https://github.com/amitk161/DSA-Solutions/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/amitk161/DSA-Solutions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amitk161/DSA-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -282,6 +284,7 @@ Collection of LeetCode and GFG questions!
 | [0160-intersection-of-two-linked-lists](https://github.com/amitk161/DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0817-design-hashmap](https://github.com/amitk161/DSA-Solutions/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -372,6 +375,7 @@ Collection of LeetCode and GFG questions!
 | [0295-find-median-from-data-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0817-design-hashmap](https://github.com/amitk161/DSA-Solutions/tree/master/0817-design-hashmap) |
 ## Randomized
 |  |
 | ------- |
@@ -499,4 +503,8 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amitk161/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/amitk161/DSA-Solutions/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
