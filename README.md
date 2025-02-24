@@ -52,6 +52,7 @@ Collection of LeetCode and GFG questions!
 | [0679-24-game](https://github.com/amitk161/DSA-Solutions/tree/master/0679-24-game) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/amitk161/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/amitk161/DSA-Solutions/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/amitk161/DSA-Solutions/tree/master/0876-hand-of-straights) |
@@ -265,6 +266,7 @@ Collection of LeetCode and GFG questions!
 | [0042-trapping-rain-water](https://github.com/amitk161/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/amitk161/DSA-Solutions/tree/master/0735-asteroid-collision) |
 ## Linked List
 |  |
 | ------- |
@@ -482,6 +484,7 @@ Collection of LeetCode and GFG questions!
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/amitk161/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/amitk161/DSA-Solutions/tree/master/1184-car-pooling) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amitk161/DSA-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Doubly-Linked List
