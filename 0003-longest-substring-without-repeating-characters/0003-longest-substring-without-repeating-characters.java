@@ -4,19 +4,17 @@ class Solution {
             return 0;
 
         int maxi = Integer.MIN_VALUE;
-        HashSet<Character> set = new HashSet<>();
-        int l = 0;    
+        int l = 0, r = 0;
+        HashMap<Character, Integer> map = new HashMap<>();
 
-        for(int r=0; r<s.length(); r++){
-            if(set.contains(s.charAt(r))){
-                while(l < r && set.contains(s.charAt(r))){
-                    set.remove(s.charAt(l));
-                    l++;
-                }
+        while(r < s.length()){
+            if(map.containsKey(s.charAt(r))){
+                l = Math.max(l, map.get(s.charAt(r)) + 1);
             }
 
             maxi = Math.max(maxi, r-l+1);
-            set.add(s.charAt(r));
+            map.put(s.charAt(r), r);
+            r++;
         }
         return maxi;
     }
