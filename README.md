@@ -267,6 +267,7 @@ Collection of LeetCode and GFG questions!
 | [0020-valid-parentheses](https://github.com/amitk161/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amitk161/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/amitk161/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/amitk161/DSA-Solutions/tree/master/0735-asteroid-collision) |
 ## Linked List
@@ -387,6 +388,7 @@ Collection of LeetCode and GFG questions!
 | [0102-binary-tree-level-order-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amitk161/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
@@ -396,6 +398,7 @@ Collection of LeetCode and GFG questions!
 | [0104-maximum-depth-of-binary-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/amitk161/DSA-Solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amitk161/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/amitk161/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amitk161/DSA-Solutions/tree/master/0207-course-schedule) |
@@ -421,6 +424,7 @@ Collection of LeetCode and GFG questions!
 | [0102-binary-tree-level-order-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amitk161/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
