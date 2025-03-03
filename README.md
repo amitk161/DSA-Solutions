@@ -391,6 +391,7 @@ Collection of LeetCode and GFG questions!
 | [0144-binary-tree-preorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amitk161/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -406,6 +407,7 @@ Collection of LeetCode and GFG questions!
 | [0207-course-schedule](https://github.com/amitk161/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amitk161/DSA-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/amitk161/DSA-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/amitk161/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/amitk161/DSA-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -429,6 +431,7 @@ Collection of LeetCode and GFG questions!
 | [0144-binary-tree-preorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amitk161/DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amitk161/DSA-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/amitk161/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
