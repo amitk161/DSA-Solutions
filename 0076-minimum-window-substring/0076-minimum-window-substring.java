@@ -6,7 +6,7 @@ class Solution {
         if(m < n) return "";
 
         HashMap<Character, Integer> map = new HashMap<>();
-        for(int i=0; i<n; i++){
+        for(int i=0; i<t.length(); i++){
             map.put(t.charAt(i), map.getOrDefault(t.charAt(i), 0) + 1);
         }
 
@@ -15,11 +15,11 @@ class Solution {
         while(r < m){
             if(map.containsKey(s.charAt(r)) && map.get(s.charAt(r)) > 0)
                 cnt++;
-            map.put(s.charAt(r), map.getOrDefault(s.charAt(r), 0) - 1);
+            map.put(s.charAt(r), map.getOrDefault(s.charAt(r), 0) - 1);    
 
             while(cnt == n){
-                if(r - l + 1 < minLen){
-                    minLen = r - l + 1;
+                if(r-l+1 < minLen){
+                    minLen = r-l+1;
                     sIndex = l;
                 }
 
@@ -30,7 +30,6 @@ class Solution {
             }
             r++;
         }
-        return sIndex == -1 ? "" : s.substring(sIndex, sIndex + minLen);
+        return (sIndex == -1) ? "" : s.substring(sIndex, sIndex + minLen);
     }
-
 }
