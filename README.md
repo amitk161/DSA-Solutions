@@ -36,6 +36,7 @@ Collection of LeetCode and GFG questions!
 | [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/amitk161/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/amitk161/DSA-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/amitk161/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/amitk161/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -88,6 +89,7 @@ Collection of LeetCode and GFG questions!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amitk161/DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/amitk161/DSA-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/amitk161/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -174,6 +176,7 @@ Collection of LeetCode and GFG questions!
 | [0215-kth-largest-element-in-an-array](https://github.com/amitk161/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/amitk161/DSA-Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/amitk161/DSA-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/amitk161/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/amitk161/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -191,6 +194,7 @@ Collection of LeetCode and GFG questions!
 | [0002-add-two-numbers](https://github.com/amitk161/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/amitk161/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/amitk161/DSA-Solutions/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/amitk161/DSA-Solutions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/amitk161/DSA-Solutions/tree/master/0282-expression-add-operators) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/amitk161/DSA-Solutions/tree/master/0679-24-game) |
@@ -229,6 +233,7 @@ Collection of LeetCode and GFG questions!
 | [0169-majority-element](https://github.com/amitk161/DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amitk161/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amitk161/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/amitk161/DSA-Solutions/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/amitk161/DSA-Solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/amitk161/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amitk161/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -369,6 +374,7 @@ Collection of LeetCode and GFG questions!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/amitk161/DSA-Solutions/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/amitk161/DSA-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/amitk161/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
