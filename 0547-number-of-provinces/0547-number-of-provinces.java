@@ -24,16 +24,16 @@ class Solution {
                 dfs(i, adj, vis);
             }
         }
+
         return cnt;
     }
 
-    public void dfs(int node, ArrayList<ArrayList<Integer>> adj, int[] vis){
+    private void dfs(int node, ArrayList<ArrayList<Integer>> adj, int[] vis){
         vis[node] = 1;
 
         for(Integer it: adj.get(node)){
-            if(vis[it] == 0){
+            if(vis[it] == 0)
                 dfs(it, adj, vis);
-            }
         }
     }
 }
