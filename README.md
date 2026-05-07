@@ -61,6 +61,7 @@ Collection of LeetCode and GFG questions!
 | [0890-lemonade-change](https://github.com/amitk161/DSA-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/amitk161/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/amitk161/DSA-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/amitk161/DSA-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -96,6 +97,7 @@ Collection of LeetCode and GFG questions!
 | [0540-single-element-in-a-sorted-array](https://github.com/amitk161/DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/amitk161/DSA-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/amitk161/DSA-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/amitk161/DSA-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/amitk161/DSA-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -327,6 +329,7 @@ Collection of LeetCode and GFG questions!
 | [0239-sliding-window-maximum](https://github.com/amitk161/DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/amitk161/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/amitk161/DSA-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amitk161/DSA-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -338,6 +341,7 @@ Collection of LeetCode and GFG questions!
 | [0410-split-array-largest-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/amitk161/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitk161/DSA-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitk161/DSA-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/amitk161/DSA-Solutions/tree/master/1184-car-pooling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amitk161/DSA-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
